@@ -1,6 +1,6 @@
 # Pricing Test
 
-A more detailed description can be found in `Data_Challenge_ConversionRate.pdf`. 
+A more detailed description can be found in `Data_Challenge_ConversionRate.pdf`. Click on `Predict_Conversion_Rate.ipynb` to see the analysis.
 ### Goal
 Pricing optimization is, non surprisingly, another area where data science can provide huge
 value. The goal here is to evaluate whether a pricing test running on the site has been successful.
